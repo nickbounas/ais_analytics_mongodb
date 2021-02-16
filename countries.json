@@ -1,0 +1,1687 @@
+[{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fd8"
+  },
+  "country_code": 202,
+  "country": "Andorra (Principality of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fd9"
+  },
+  "country_code": 203,
+  "country": "Austria"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fda"
+  },
+  "country_code": 204,
+  "country": "Azores"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fdb"
+  },
+  "country_code": 205,
+  "country": "Belgium"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fdc"
+  },
+  "country_code": 206,
+  "country": "Belarus (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fdd"
+  },
+  "country_code": 207,
+  "country": "Bulgaria (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fde"
+  },
+  "country_code": 208,
+  "country": "Vatican City State"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fdf"
+  },
+  "country_code": 209,
+  "country": "Cyprus (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe0"
+  },
+  "country_code": 210,
+  "country": "Cyprus (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe1"
+  },
+  "country_code": 211,
+  "country": "Germany (Federal Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe2"
+  },
+  "country_code": 212,
+  "country": "Cyprus (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe3"
+  },
+  "country_code": 213,
+  "country": "Georgia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe4"
+  },
+  "country_code": 214,
+  "country": "Moldova (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe5"
+  },
+  "country_code": 215,
+  "country": "Malta"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe6"
+  },
+  "country_code": 216,
+  "country": "Armenia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe7"
+  },
+  "country_code": 218,
+  "country": "Germany (Federal Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe8"
+  },
+  "country_code": 201,
+  "country": "Albania (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fe9"
+  },
+  "country_code": 220,
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fea"
+  },
+  "country_code": 224,
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706feb"
+  },
+  "country_code": 225,
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fec"
+  },
+  "country_code": 226,
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fed"
+  },
+  "country_code": 219,
+  "country": "Denmark"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fee"
+  },
+  "country_code": 227,
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fef"
+  },
+  "country_code": 228,
+  "country": "France"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff0"
+  },
+  "country_code": 230,
+  "country": "Finland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff1"
+  },
+  "country_code": 231,
+  "country": "Faroe Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff2"
+  },
+  "country_code": 232,
+  "country": "United Kingdom of Great Britain and Northern Ireland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff3"
+  },
+  "country_code": 234,
+  "country": "United Kingdom of Great Britain and Northern Ireland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff4"
+  },
+  "country_code": 233,
+  "country": "United Kingdom of Great Britain and Northern Ireland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff5"
+  },
+  "country_code": 235,
+  "country": "United Kingdom of Great Britain and Northern Ireland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff6"
+  },
+  "country_code": 236,
+  "country": "Gibraltar"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff7"
+  },
+  "country_code": 237,
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff8"
+  },
+  "country_code": 238,
+  "country": "Croatia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ff9"
+  },
+  "country_code": 239,
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ffa"
+  },
+  "country_code": 240,
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ffb"
+  },
+  "country_code": 241,
+  "country": "Greece"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ffc"
+  },
+  "country_code": 242,
+  "country": "Morocco (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ffd"
+  },
+  "country_code": 243,
+  "country": "Hungary (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706ffe"
+  },
+  "country_code": 244,
+  "country": "Netherlands (Kingdom of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea706fff"
+  },
+  "country_code": 246,
+  "country": "Netherlands (Kingdom of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707000"
+  },
+  "country_code": 247,
+  "country": "Italy"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707001"
+  },
+  "country_code": 245,
+  "country": "Netherlands (Kingdom of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707002"
+  },
+  "country_code": 249,
+  "country": "Malta"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707003"
+  },
+  "country_code": 248,
+  "country": "Malta"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707004"
+  },
+  "country_code": 250,
+  "country": "Ireland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707005"
+  },
+  "country_code": 251,
+  "country": "Iceland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707006"
+  },
+  "country_code": 252,
+  "country": "Liechtenstein (Principality of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707007"
+  },
+  "country_code": 254,
+  "country": "Monaco (Principality of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707008"
+  },
+  "country_code": 253,
+  "country": "Luxembourg"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707009"
+  },
+  "country_code": 255,
+  "country": "Madeira"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70700a"
+  },
+  "country_code": 256,
+  "country": "Malta"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70700b"
+  },
+  "country_code": 257,
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70700c"
+  },
+  "country_code": 258,
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70700d"
+  },
+  "country_code": 259,
+  "country": "Norway"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70700e"
+  },
+  "country_code": 261,
+  "country": "Poland (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70700f"
+  },
+  "country_code": 262,
+  "country": "Montenegro"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707010"
+  },
+  "country_code": 263,
+  "country": "Portugal"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707011"
+  },
+  "country_code": 265,
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707012"
+  },
+  "country_code": 264,
+  "country": "Romania"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707013"
+  },
+  "country_code": 266,
+  "country": "Sweden"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707014"
+  },
+  "country_code": 267,
+  "country": "Slovak Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707015"
+  },
+  "country_code": 268,
+  "country": "San Marino (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707016"
+  },
+  "country_code": 270,
+  "country": "Czech Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707017"
+  },
+  "country_code": 269,
+  "country": "Switzerland (Confederation of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707018"
+  },
+  "country_code": 271,
+  "country": "Turkey"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707019"
+  },
+  "country_code": 272,
+  "country": "Ukraine"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70701a"
+  },
+  "country_code": 273,
+  "country": "Russian Federation"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70701b"
+  },
+  "country_code": 275,
+  "country": "Latvia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70701c"
+  },
+  "country_code": 276,
+  "country": "Estonia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70701d"
+  },
+  "country_code": 277,
+  "country": "Lithuania (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70701e"
+  },
+  "country_code": 278,
+  "country": "Slovenia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70701f"
+  },
+  "country_code": 274,
+  "country": "The Former Yugoslav Republic of Macedonia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707020"
+  },
+  "country_code": 301,
+  "country": "Anguilla"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707021"
+  },
+  "country_code": 279,
+  "country": "Serbia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707022"
+  },
+  "country_code": 303,
+  "country": "Alaska (State of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707023"
+  },
+  "country_code": 304,
+  "country": "Antigua and Barbuda"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707024"
+  },
+  "country_code": 305,
+  "country": "Antigua and Barbuda"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707025"
+  },
+  "country_code": 306,
+  "country": "Netherlands Antilles"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707026"
+  },
+  "country_code": 307,
+  "country": "Aruba"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707027"
+  },
+  "country_code": 308,
+  "country": "Bahamas (Commonwealth of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707028"
+  },
+  "country_code": 309,
+  "country": "Bahamas (Commonwealth of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707029"
+  },
+  "country_code": 310,
+  "country": "Bermuda"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70702a"
+  },
+  "country_code": 311,
+  "country": "Bahamas (Commonwealth of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70702b"
+  },
+  "country_code": 312,
+  "country": "Belize"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70702c"
+  },
+  "country_code": 316,
+  "country": "Canada"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70702d"
+  },
+  "country_code": 314,
+  "country": "Barbados"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70702e"
+  },
+  "country_code": 319,
+  "country": "Cayman Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70702f"
+  },
+  "country_code": 321,
+  "country": "Costa Rica"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707030"
+  },
+  "country_code": 323,
+  "country": "Cuba"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707031"
+  },
+  "country_code": 325,
+  "country": "Dominica (Commonwealth of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707032"
+  },
+  "country_code": 327,
+  "country": "Dominican Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707033"
+  },
+  "country_code": 330,
+  "country": "Grenada"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707034"
+  },
+  "country_code": 331,
+  "country": "Greenland"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707035"
+  },
+  "country_code": 329,
+  "country": "Guadeloupe (French Department of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707036"
+  },
+  "country_code": 332,
+  "country": "Guatemala (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707037"
+  },
+  "country_code": 334,
+  "country": "Honduras (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707038"
+  },
+  "country_code": 336,
+  "country": "Haiti (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707039"
+  },
+  "country_code": 338,
+  "country": "United States of America"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70703a"
+  },
+  "country_code": 339,
+  "country": "Jamaica"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70703b"
+  },
+  "country_code": 341,
+  "country": "Saint Kitts and Nevis (Federation of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70703c"
+  },
+  "country_code": 343,
+  "country": "Saint Lucia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70703d"
+  },
+  "country_code": 345,
+  "country": "Mexico"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70703e"
+  },
+  "country_code": 347,
+  "country": "Martinique (French Department of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70703f"
+  },
+  "country_code": 348,
+  "country": "Montserrat"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707040"
+  },
+  "country_code": 350,
+  "country": "Nicaragua"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707041"
+  },
+  "country_code": 351,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707042"
+  },
+  "country_code": 352,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707043"
+  },
+  "country_code": 353,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707044"
+  },
+  "country_code": 354,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707045"
+  },
+  "country_code": 355,
+  "country": "-"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707046"
+  },
+  "country_code": 356,
+  "country": "-"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707047"
+  },
+  "country_code": 357,
+  "country": "-"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707048"
+  },
+  "country_code": 358,
+  "country": "Puerto Rico"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707049"
+  },
+  "country_code": 359,
+  "country": "El Salvador (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70704a"
+  },
+  "country_code": 361,
+  "country": "Saint Pierre and Miquelon (Territorial Collectivity of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70704b"
+  },
+  "country_code": 362,
+  "country": "Trinidad and Tobago"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70704c"
+  },
+  "country_code": 364,
+  "country": "Turks and Caicos Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70704d"
+  },
+  "country_code": 367,
+  "country": "United States of America"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70704e"
+  },
+  "country_code": 368,
+  "country": "United States of America"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70704f"
+  },
+  "country_code": 369,
+  "country": "United States of America"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707050"
+  },
+  "country_code": 366,
+  "country": "United States of America"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707051"
+  },
+  "country_code": 371,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707052"
+  },
+  "country_code": 370,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707053"
+  },
+  "country_code": 372,
+  "country": "Panama (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707054"
+  },
+  "country_code": 375,
+  "country": "Saint Vincent and the Grenadines"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707055"
+  },
+  "country_code": 376,
+  "country": "Saint Vincent and the Grenadines"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707056"
+  },
+  "country_code": 378,
+  "country": "British Virgin Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707057"
+  },
+  "country_code": 377,
+  "country": "Saint Vincent and the Grenadines"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707058"
+  },
+  "country_code": 379,
+  "country": "United States Virgin Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707059"
+  },
+  "country_code": 401,
+  "country": "Afghanistan"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70705a"
+  },
+  "country_code": 403,
+  "country": "Saudi Arabia (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70705b"
+  },
+  "country_code": 405,
+  "country": "Bangladesh (People's Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70705c"
+  },
+  "country_code": 408,
+  "country": "Bahrain (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70705d"
+  },
+  "country_code": 412,
+  "country": "China (People's Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70705e"
+  },
+  "country_code": 410,
+  "country": "Bhutan (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70705f"
+  },
+  "country_code": 413,
+  "country": "China (People's Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707060"
+  },
+  "country_code": 417,
+  "country": "Sri Lanka (Democratic Socialist Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707061"
+  },
+  "country_code": 416,
+  "country": "Taiwan (Province of China)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707062"
+  },
+  "country_code": 419,
+  "country": "India (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707063"
+  },
+  "country_code": 422,
+  "country": "Iran (Islamic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707064"
+  },
+  "country_code": 423,
+  "country": "Azerbaijani Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707065"
+  },
+  "country_code": 428,
+  "country": "Israel (State of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707066"
+  },
+  "country_code": 425,
+  "country": "Iraq (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707067"
+  },
+  "country_code": 431,
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707068"
+  },
+  "country_code": 432,
+  "country": "Japan"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707069"
+  },
+  "country_code": 434,
+  "country": "Turkmenistan"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70706a"
+  },
+  "country_code": 436,
+  "country": "Kazakhstan (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70706b"
+  },
+  "country_code": 437,
+  "country": "Uzbekistan (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70706c"
+  },
+  "country_code": 438,
+  "country": "Jordan (Hashemite Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70706d"
+  },
+  "country_code": 440,
+  "country": "Korea (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70706e"
+  },
+  "country_code": 441,
+  "country": "Korea (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70706f"
+  },
+  "country_code": 445,
+  "country": "Democratic People's Republic of Korea"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707070"
+  },
+  "country_code": 447,
+  "country": "Kuwait (State of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707071"
+  },
+  "country_code": 450,
+  "country": "Lebanon"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707072"
+  },
+  "country_code": 443,
+  "country": "Palestine (In accordance with Resolution 99 Rev. Antalya, 2006)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707073"
+  },
+  "country_code": 451,
+  "country": "Kyrgyz Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707074"
+  },
+  "country_code": 455,
+  "country": "Maldives (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707075"
+  },
+  "country_code": 453,
+  "country": "Macao (Special Administrative Region of China)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707076"
+  },
+  "country_code": 457,
+  "country": "Mongolia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707077"
+  },
+  "country_code": 459,
+  "country": "Nepal (Federal Democratic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707078"
+  },
+  "country_code": 461,
+  "country": "Oman (Sultanate of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707079"
+  },
+  "country_code": 466,
+  "country": "Qatar (State of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70707a"
+  },
+  "country_code": 463,
+  "country": "Pakistan (Islamic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70707b"
+  },
+  "country_code": 468,
+  "country": "Syrian Arab Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70707c"
+  },
+  "country_code": 470,
+  "country": "United Arab Emirates"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70707d"
+  },
+  "country_code": 473,
+  "country": "Yemen (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70707e"
+  },
+  "country_code": 475,
+  "country": "Yemen (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70707f"
+  },
+  "country_code": 478,
+  "country": "Bosnia and Herzegovina"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707080"
+  },
+  "country_code": 477,
+  "country": "Hong Kong (Special Administrative Region of China)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707081"
+  },
+  "country_code": 501,
+  "country": "Adelie Land"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707082"
+  },
+  "country_code": 503,
+  "country": "Australia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707083"
+  },
+  "country_code": 508,
+  "country": "Brunei Darussalam"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707084"
+  },
+  "country_code": 510,
+  "country": "Micronesia (Federated States of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707085"
+  },
+  "country_code": 506,
+  "country": "Myanmar (Union of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707086"
+  },
+  "country_code": 511,
+  "country": "Palau (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707087"
+  },
+  "country_code": 512,
+  "country": "New Zealand"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707088"
+  },
+  "country_code": 515,
+  "country": "Cambodia (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707089"
+  },
+  "country_code": 514,
+  "country": "Cambodia (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70708a"
+  },
+  "country_code": 516,
+  "country": "Christmas Island (Indian Ocean)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70708b"
+  },
+  "country_code": 518,
+  "country": "Cook Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70708c"
+  },
+  "country_code": 520,
+  "country": "Fiji (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70708d"
+  },
+  "country_code": 525,
+  "country": "Indonesia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70708e"
+  },
+  "country_code": 529,
+  "country": "Kiribati (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70708f"
+  },
+  "country_code": 531,
+  "country": "Lao People's Democratic Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707090"
+  },
+  "country_code": 523,
+  "country": "Cocos (Keeling) Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707091"
+  },
+  "country_code": 533,
+  "country": "Malaysia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707092"
+  },
+  "country_code": 538,
+  "country": "Marshall Islands (Republic of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707093"
+  },
+  "country_code": 536,
+  "country": "Northern Mariana Islands (Commonwealth of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707094"
+  },
+  "country_code": 540,
+  "country": "New Caledonia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707095"
+  },
+  "country_code": 542,
+  "country": "Niue"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707096"
+  },
+  "country_code": 544,
+  "country": "Nauru (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707097"
+  },
+  "country_code": 548,
+  "country": "Philippines (Republic of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707098"
+  },
+  "country_code": 546,
+  "country": "French Polynesia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea707099"
+  },
+  "country_code": 553,
+  "country": "Papua New Guinea"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70709a"
+  },
+  "country_code": 555,
+  "country": "Pitcairn Island"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70709b"
+  },
+  "country_code": 557,
+  "country": "Solomon Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70709c"
+  },
+  "country_code": 559,
+  "country": "American Samoa"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70709d"
+  },
+  "country_code": 561,
+  "country": "Samoa (Independent State of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70709e"
+  },
+  "country_code": 564,
+  "country": "Singapore (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea70709f"
+  },
+  "country_code": 563,
+  "country": "Singapore (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a0"
+  },
+  "country_code": 565,
+  "country": "Singapore (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a1"
+  },
+  "country_code": 567,
+  "country": "Thailand"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a2"
+  },
+  "country_code": 570,
+  "country": "Tonga (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a3"
+  },
+  "country_code": 574,
+  "country": "Viet Nam (Socialist Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a4"
+  },
+  "country_code": 572,
+  "country": "Tuvalu"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a5"
+  },
+  "country_code": 576,
+  "country": "Vanuatu (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a6"
+  },
+  "country_code": 578,
+  "country": "Wallis and Futuna Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a7"
+  },
+  "country_code": 603,
+  "country": "Angola (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a8"
+  },
+  "country_code": 601,
+  "country": "South Africa (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070a9"
+  },
+  "country_code": 605,
+  "country": "Algeria (People's Democratic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070aa"
+  },
+  "country_code": 608,
+  "country": "Ascension Island"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ab"
+  },
+  "country_code": 607,
+  "country": "Saint Paul and Amsterdam Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ac"
+  },
+  "country_code": 609,
+  "country": "Burundi (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ad"
+  },
+  "country_code": 610,
+  "country": "Benin (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ae"
+  },
+  "country_code": 611,
+  "country": "Botswana (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070af"
+  },
+  "country_code": 613,
+  "country": "Cameroon (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b0"
+  },
+  "country_code": 612,
+  "country": "Central African Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b1"
+  },
+  "country_code": 615,
+  "country": "Congo (Republic of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b2"
+  },
+  "country_code": 616,
+  "country": "Comoros (Union of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b3"
+  },
+  "country_code": 617,
+  "country": "Cape Verde (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b4"
+  },
+  "country_code": 618,
+  "country": "Crozet Archipelago"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b5"
+  },
+  "country_code": 619,
+  "country": "Côte d'Ivoire (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b6"
+  },
+  "country_code": 621,
+  "country": "Djibouti (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b7"
+  },
+  "country_code": 622,
+  "country": "Egypt (Arab Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b8"
+  },
+  "country_code": 624,
+  "country": "Ethiopia (Federal Democratic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070b9"
+  },
+  "country_code": 626,
+  "country": "Gabonese Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ba"
+  },
+  "country_code": 625,
+  "country": "Eritrea"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070bb"
+  },
+  "country_code": 627,
+  "country": "Ghana"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070bc"
+  },
+  "country_code": 629,
+  "country": "Gambia (Republic of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070bd"
+  },
+  "country_code": 630,
+  "country": "Guinea-Bissau (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070be"
+  },
+  "country_code": 632,
+  "country": "Guinea (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070bf"
+  },
+  "country_code": 631,
+  "country": "Equatorial Guinea (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c0"
+  },
+  "country_code": 633,
+  "country": "Burkina Faso"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c1"
+  },
+  "country_code": 634,
+  "country": "Kenya (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c2"
+  },
+  "country_code": 635,
+  "country": "Kerguelen Islands"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c3"
+  },
+  "country_code": 637,
+  "country": "Liberia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c4"
+  },
+  "country_code": 642,
+  "country": "Socialist People's Libyan Arab Jamahiriya"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c5"
+  },
+  "country_code": 644,
+  "country": "Lesotho (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c6"
+  },
+  "country_code": 636,
+  "country": "Liberia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c7"
+  },
+  "country_code": 645,
+  "country": "Mauritius (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c8"
+  },
+  "country_code": 649,
+  "country": "Mali (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070c9"
+  },
+  "country_code": 647,
+  "country": "Madagascar (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ca"
+  },
+  "country_code": 650,
+  "country": "Mozambique (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070cb"
+  },
+  "country_code": 654,
+  "country": "Mauritania (Islamic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070cc"
+  },
+  "country_code": 655,
+  "country": "Malawi"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070cd"
+  },
+  "country_code": 656,
+  "country": "Niger (Republic of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ce"
+  },
+  "country_code": 657,
+  "country": "Nigeria (Federal Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070cf"
+  },
+  "country_code": 659,
+  "country": "Namibia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d0"
+  },
+  "country_code": 660,
+  "country": "Reunion (French Department of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d1"
+  },
+  "country_code": 661,
+  "country": "Rwanda (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d2"
+  },
+  "country_code": 663,
+  "country": "Senegal (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d3"
+  },
+  "country_code": 662,
+  "country": "Sudan (Republic of the)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d4"
+  },
+  "country_code": 664,
+  "country": "Seychelles (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d5"
+  },
+  "country_code": 665,
+  "country": "Saint Helena"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d6"
+  },
+  "country_code": 666,
+  "country": "Somali Democratic Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d7"
+  },
+  "country_code": 667,
+  "country": "Sierra Leone"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d8"
+  },
+  "country_code": 668,
+  "country": "Sao Tome and Principe (Democratic Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070d9"
+  },
+  "country_code": 669,
+  "country": "Swaziland (Kingdom of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070da"
+  },
+  "country_code": 670,
+  "country": "Chad (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070db"
+  },
+  "country_code": 671,
+  "country": "Togolese Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070dc"
+  },
+  "country_code": 672,
+  "country": "Tunisia"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070dd"
+  },
+  "country_code": 674,
+  "country": "Tanzania (United Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070de"
+  },
+  "country_code": 675,
+  "country": "Uganda (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070df"
+  },
+  "country_code": 676,
+  "country": "Democratic Republic of the Congo"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e0"
+  },
+  "country_code": 677,
+  "country": "Tanzania (United Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e1"
+  },
+  "country_code": 679,
+  "country": "Zimbabwe (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e2"
+  },
+  "country_code": 678,
+  "country": "Zambia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e3"
+  },
+  "country_code": 701,
+  "country": "Argentine Republic"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e4"
+  },
+  "country_code": 710,
+  "country": "Brazil (Federative Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e5"
+  },
+  "country_code": 720,
+  "country": "Bolivia (Plurinational State of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e6"
+  },
+  "country_code": 725,
+  "country": "Chile"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e7"
+  },
+  "country_code": 730,
+  "country": "Colombia (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e8"
+  },
+  "country_code": 735,
+  "country": "Ecuador"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070e9"
+  },
+  "country_code": 740,
+  "country": "Falkland Islands (Malvinas)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ea"
+  },
+  "country_code": 745,
+  "country": "Guiana (French Department of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070eb"
+  },
+  "country_code": 750,
+  "country": "Guyana"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ec"
+  },
+  "country_code": 760,
+  "country": "Peru"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ed"
+  },
+  "country_code": 765,
+  "country": "Suriname (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ee"
+  },
+  "country_code": 770,
+  "country": "Uruguay (Eastern Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070ef"
+  },
+  "country_code": 755,
+  "country": "Paraguay (Republic of)"
+},{
+  "_id": {
+    "$oid": "5ff4b616eccaf1ccea7070f0"
+  },
+  "country_code": 775,
+  "country": "Venezuela (Bolivarian Republic of)"
+}]

@@ -3,8 +3,7 @@ version: '3.3'
 
 services:
   ais_analytics:
-    build:
-      context: .
+    image: nikosbounas/ais_analytics_mongodb
     ports:
       - "8000:80"
     env_file:
@@ -25,7 +24,21 @@ services:
       - 91:80
     networks:
       - ais_analytics_net
-
+      
+  mongodb:
+    container_name: ais-mongodb
+    image: mongo:latest
+    environment:
+        MONGO_INITDB_ROOT_USERNAME: root
+        MONGO_INITDB_ROOT_PASSWORD: root
+        MONGO_INITDB_DATABASE: zenodo
+    ports:
+        - 27117:27017
+    volumes:
+        - ./.docker/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+        - ./.data:/data/db
+    networks:
+      - ais_analytics_net 
 
 networks:
   ais_analytics_net:

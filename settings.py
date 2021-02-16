@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     APP_NAME: str = "AIS Data"
     APP_STATE: str = Field("prod", env="APP_STATE")
     
-    MONGODB_URL: str = Field("mongodb://root:root@localhost:27017", env="MONGODB_URL")
+    MONGODB_URL: str = Field("mongodb://root:root@localhost:27117", env="MONGODB_URL")
     DB_NAME: str = Field("zenodo", env="DB_NAME")
     MAX_CONNECTIONS_COUNT: int = Field(15, env="MAX_CONNECTIONS_COUNT")
     MIN_CONNECTIONS_COUNT: int = Field(10, env="MIN_CONNECTIONS_COUNT")

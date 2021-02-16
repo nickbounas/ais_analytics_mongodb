@@ -55,7 +55,7 @@ export default {
         return{
             mode: "lastSeenAt",
             center: L.latLng(49.4, -4),
-            day: new Date('2016-03-01T00:00:00.000Z'),
+            day: new Date('2015-10-01T06:02:00.000Z'),
             map: null,
             vessels: null,
             geoJSON: null
